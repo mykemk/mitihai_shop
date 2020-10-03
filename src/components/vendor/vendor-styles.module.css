@@ -1,0 +1,82 @@
+.signUpForm{
+    width:95%;
+    margin:auto;
+    margin-top:2%;
+    height:fit-content
+}
+.signUpForm h3{
+    margin-left: 2.5%
+}
+.signUpForm form, fieldset{
+    background-color: white
+
+}
+.successMsg{
+    margin-bottom: 30%
+}
+.signUpForm input, label, select, textarea{
+    width:95%;
+    margin-left: 2.5%;
+    margin-top:2%;
+}
+.signUpForm label{
+    font-weight: 500;
+    color:black
+}
+.signUpForm input, select, textarea{
+    padding:10px;
+    color:black;
+    font-weight: normal;
+    border:0.5px solid rgba(128, 128, 128, 0.5)
+}
+.navButtons{
+    width:95%;
+    margin:auto;
+    margin-bottom: 3%;
+}
+.navButtons button{
+    margin-right: 3%;
+    color:green;
+    height: 5%;
+}
+.updateForm form{
+    background-color: inherit;
+}
+.updateForm button{
+    background-color: green;
+    color:white;
+}
+.updateForm .shopDetails, .personalDetails, .contactDetails{
+    background-color: white;
+
+}
+@media screen and (max-width:1050px) and (min-width:600px) {
+    
+  }
+
+@media screen and (min-width:1050px) {
+    .signUpForm{
+        width:40%;
+        height:fit-content
+    }
+    .updateForm{
+        width:90%;
+        height: 90%;
+    }
+    .updateForm .personalDetails{
+        width:25%;
+        float:left;
+    }
+    .updateForm .shopDetails{
+        width:40%;
+        float: left;
+        height:100%;
+        margin-left: 1%;
+
+    }
+    .contactDetails{
+        width:33%;
+        float:right;
+
+    }
+  }

@@ -1,0 +1,33 @@
+.searchFilter{
+    position:sticky;
+    top:0;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 3%;
+    margin-top:3%;
+
+}
+.searchFilter form{
+    width: 100%;
+    float:left;
+}
+.searchFilter form *{
+    outline:greenyellow;
+}
+form input{
+    padding: 6px;
+    width: 72%;
+}
+.searchFilter button{
+    width: 20%;
+}
+.searchFallback{
+    width:80%;
+    margin:auto;
+}
+.searchFallback button{
+    padding:2px;
+    margin-left:45%;
+    color:white;
+    border-color: green;
+}

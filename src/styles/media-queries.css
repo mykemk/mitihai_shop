@@ -1,0 +1,34 @@
+@media screen and (max-width:600px) {
+  .footer{
+    display: none;
+  }
+}
+
+@media screen and (max-width:1050px) and (min-width:600px) {
+  .sidenav {
+    width: 35%;
+  }
+}
+
+@media screen and (min-width:1050px) {
+  .header {
+    left: 15%;
+    width: 85%;
+    display:none;
+  }
+  .main {
+    left: 0;
+    width: 100%;
+  }
+  .sidenav {
+    width: 100%;
+    height:10%;
+  }
+  .modal {
+    left: 30%;
+    width: 30%;
+  }
+  .footer{
+    height: 50vh
+  }
+}

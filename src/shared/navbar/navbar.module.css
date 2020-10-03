@@ -1,0 +1,201 @@
+.sidenav {
+  background-color: white;
+  text-decoration: none;
+  overflow: hidden;
+  display: inline-block;
+  height: 100%;
+  border-left: 1px solid black;
+}
+
+.sidenav * {
+  outline: none;
+  color: black;
+  opacity: 1;
+  font-weight:normal;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:active, a:hover {
+  text-decoration: none;
+}
+
+.logoHolder {
+  position: absolute;
+  top: 0;
+  height: 9%;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  border: none;
+}
+
+.shown {
+  display: inline-block;
+  width:100%;
+}
+
+/* Designs the appearance and position of the side Navigation bar*/
+
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-left: 3%; 
+  padding-bottom: 10%;
+}
+
+.linksWrapper {
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  font-weight: 100;
+}
+
+.linksWrapper * {
+  background-color: inherit
+}
+
+.navOption {
+  width: 100%;
+  border: none;
+  display: block;
+  padding: 0;
+  text-align: left;
+  font-size: 1.1em;
+  margin-top: 5%;
+  margin-bottom: 4%;
+}
+
+.navOption:hover, .navOption:active, .listLinks:hover {
+  color: blue;
+  background-color: inherit;
+  transition:all 1s;
+}
+
+.menuOptions {
+  width: 100%;
+  margin-left: 5%;
+}
+
+.navAction {
+  display: block;
+  border: none;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  font-size: 1em;
+}
+
+.sidebarCloser {
+  position: absolute;
+  top: 0;
+  margin-top: 10%;
+  right: 0;
+}
+.listLinks{
+  width:100%;
+}
+.menuOptionsToggle {
+  position: absolute;
+  right: 10%;
+}
+.searchBar {
+  display: none;
+}
+.searchBar input{
+  padding:5px;
+  border-radius: 15px;
+  background-color: white;
+  border-color: #EBF1F5;
+  border-style: hidden;
+  color:black;
+}
+.searchBar button{
+  width:15%;
+  float: right;
+  padding:2px;
+  color:white;
+}
+@media screen and (min-width:1050px){
+  .sidenav {
+    background-color:#238C2C;
+  }
+  .sidenav *{
+    color: white;
+  }
+  .logo{
+    color:#F5F8FA;
+  }
+  .linksWrapper{
+    top:0;
+    right:0;
+    float:right;
+    width:80%;
+    background-color:#29A634;
+    height: 100%;
+  }
+  .sidebarCloser{
+    display: none;
+  }
+  .navOption{
+    width:8%;
+    margin-left: 0.5%;
+    margin-right:0.5%;
+    float: left;
+    margin-top: 0;
+    padding-top: 2%;
+  }
+  
+  a:active, a:hover {
+    color:#EBF1F5;
+    text-decoration: none;
+  }
+  .shown{
+    margin-top:20%;
+    width: 95%;
+
+  }
+  .navOption:hover, .navOption:active, .listLinks:hover {
+    color:#EBF1F5;
+    border-bottom:1px solid black;
+    transition: all 1s;
+  }
+  .menuIcon{
+    display: none;
+  }
+  .menuOptionsToggle{
+    display: none;
+  }
+  .menuOptionsToggle *{
+    display: inline;
+  }
+  .listLinks{
+    width:10%;
+    margin-left: 0.5%;
+    margin-right:0.5%;
+    float:left;
+    padding-top: 2%;
+  }
+  .userProfile{
+    position: absolute;
+    right:2%;
+    width:15%;
+    font-size:1.1em;
+  }
+  .searchBar{
+    width: 25%;
+    padding-top: 1%;
+    float: left;
+    display: block;
+  }
+  .userProfile .shown{
+    margin-top:5%;
+  }
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "name":"Lifestyle",
+        "products":[
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wild Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":500, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"}        
+        ]
+    },
+    {
+        "name":"Office",
+        "products":[
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"}        
+        ]
+    },
+    {
+        "name":"Kitchen",
+        "products":[
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"}        
+        ]
+    },
+    {
+        "name":"Fashion",
+        "products":[
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"}        
+        ]
+    },
+    {
+        "name":"Fitness",
+        "products":[
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"},
+            {"name":"Wooden Watch", "price":5000, "image":"assets/images/lifestyle1.jpg"}        
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+.header {
+  position: absolute;
+  left: 1%;
+  width: 98%;
+  height: 9%;
+  background-color:#238C2C
+}
+
+.header * {
+  padding: 2%;
+  
+}
+.menu-icon{
+  color: white;
+  width:15%;
+  float:left;
+  padding:3%;
+  padding-top: 4%;
+}
+.header-search{
+  padding:0;
+  color:black;
+  width:80%;
+  float: right;
+}
+.header-search input{
+  outline: none;
+  border-radius: 15px;
+  background-color: white;
+  border-color: #EBF1F5;
+  border-style: hidden;
+}
+.header-search button{
+  padding: 1px;
+  margin-left:1%;
+}

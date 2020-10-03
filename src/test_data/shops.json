@@ -1,0 +1,82 @@
+[
+    {
+        "name":"GoodWill Shop",
+        "location":"Githurai",
+        "position":{"lat": -1.175091, "lng": 36.968285},
+        "phoneNumber":"+25712345678",
+        "email":"email@gmail,com",
+        "availableOn":"Everyday",
+        "opensAt":"8.00 AM",
+        "clossesAt":"18:00 PM",
+        "contacts":{
+            "whatsapp":"",
+            "facebook":"https://www.facebook.com/me",
+            "twitter":"https://www.twitter.com/me",
+            "instagram":"https://www.instagram.com/me"
+        }
+    },
+    {
+        "name":"GoldWill enterprises",
+        "location":"Kayole",
+        "position":{"lat": -1.178091, "lng": 36.963285},
+        "phoneNumber":"+25712345678",
+        "email":"gold@gmail,com",
+        "availableOn":"Everyday",
+        "opensAt":"8.00 AM",
+        "clossesAt":"18:00 PM",
+        "contacts":{
+            "whatsapp":"+2547123456789",
+            "facebook":"https://www.facebook.com/me",
+            "twitter":"https://www.twitter.com/me",
+            "instagram":"https://www.instagram.com/me"
+        }
+    },
+    {
+        "name":"Diamond Great Shop",
+        "location":"Siakago",
+        "position":{"lat": -2.171091, "lng": 37.968785},
+        "phoneNumber":"+25712345678",
+        "email":"diamond@gmail,com",
+        "availableOn":"Everyday",
+        "opensAt":"8.00 AM",
+        "clossesAt":"18:00 PM",
+        "contacts":{
+            "whatsapp":"+2547123456789",
+            "facebook":"https://www.facebook.com/me",
+            "twitter":"https://www.twitter.com/me",
+            "instagram":"https://www.instagram.com/me"
+        }
+    },
+    {
+        "name":"GraceVille Shop",
+        "location":"Ngara",
+        "position":{"lat": -1.173091, "lng": 36.965285},
+        "phoneNumber":"+25712345678",
+        "email":"grace@gmail,com",
+        "availableOn":"Everyday",
+        "opensAt":"8.00 AM",
+        "clossesAt":"18:00 PM",
+        "contacts":{
+            "whatsapp":"+2547123456789",
+            "facebook":"https://www.facebook.com/me",
+            "twitter":"https://www.twitter.com/me",
+            "instagram":"https://www.instagram.com/me"
+        }
+    },
+    {
+        "name":"Nunua Shop",
+        "location":"Kiritiri",
+        "position":{"lat": -1.173091, "lng": 36.965285},
+        "phoneNumber":"+25712345678",
+        "email":"nunua@gmail,com",
+        "availableOn":"Everyday",
+        "opensAt":"8.00 AM",
+        "clossesAt":"18:00 PM",
+        "contacts":{
+            "whatsapp":"",
+            "facebook":"",
+            "twitter":"",
+            "instagram":""
+        }
+    }
+]

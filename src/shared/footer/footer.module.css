@@ -1,0 +1,36 @@
+.linksList{
+    width: 100%;
+    height:100%;
+}
+.linksList a{
+    display: block;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.footerSection{
+    width: 90%;
+    margin:auto;
+    height:30vh;
+    margin-bottom:8%;
+    margin-top:8%;
+    font-size: 1.2em;
+    text-align: center;
+}
+.socialIcons{
+    margin-top: 5%
+}
+.socialIcons *{
+    margin-right: 3%;
+}
+@media screen and (min-width:1050px){
+    
+    .footerSection{
+        margin-top: 0;
+        float: left;
+        width: 28%;
+        height:90%;
+        margin-left:2.5%;
+        margin-right:2.5%;
+        text-align: justify
+    } 
+}
