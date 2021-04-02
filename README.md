@@ -1,3 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/747b0841-28ba-4f49-b2b0-896668995450/deploy-status)](https://app.netlify.com/sites/mitihai-shop/deploys)
+
+View site live at https://mitihai-shop.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
